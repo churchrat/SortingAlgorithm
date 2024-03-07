@@ -1,0 +1,14 @@
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\bin\Debug\net8.0\SortingAlghoritms.exe
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\bin\Debug\net8.0\SortingAlghoritms.deps.json
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\bin\Debug\net8.0\SortingAlghoritms.runtimeconfig.json
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\bin\Debug\net8.0\SortingAlghoritms.dll
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\bin\Debug\net8.0\SortingAlghoritms.pdb
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.AssemblyInfoInputs.cache
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.AssemblyInfo.cs
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.csproj.CoreCompileInputs.cache
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.dll
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\refint\SortingAlghoritms.dll
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.pdb
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\SortingAlghoritms.genruntimeconfig.cache
+D:\homeworke\SortingAlghoritms\SortingAlghoritms\obj\Debug\net8.0\ref\SortingAlghoritms.dll
